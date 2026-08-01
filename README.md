@@ -49,4 +49,10 @@ This repository contains my solutions to LeetCode problems using **Java**. The g
 
 ---
 
+## Coding Platform 
 Leetcode Profile : https://leetcode.com/u/kgshinde/
+
+---
+
+## Professional Platform
+LinkedIn Profile : https://www.linkedin.com/in/kshitij-shinde-918881322/
