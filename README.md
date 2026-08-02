@@ -21,6 +21,10 @@ This repository contains my solutions to LeetCode problems using **Java**. The g
 | 13 | Palindrome Linked List | `Palindrome Linked List.txt` |
 | 14 | Remove Linked List Elements | `Remove Linked List Elements.txt` |
 | 15 | Reverse Linked List | `Reverse Linked List.txt` |
+| 16 | Longest Common Prefix | `Longest Common Prefix.txt` |
+| 17 | Reverse String | `Reverse String.txt` |
+| 18 | Roman to Integer | `Roman to Integer.txt` |
+| 19 | Valid Parentheses | `Valid Parentheses.txt` |
 
 ## 🎯 Goals
 
@@ -39,7 +43,7 @@ This repository contains my solutions to LeetCode problems using **Java**. The g
 
 ## 📈 Progress
 
-- ✅ Problems Solved (Uploaded in Repo): **15**
+- ✅ Problems Solved (Uploaded in Repo): **19**
 - ✅ Problems Solved (Actually Solved in Leetcode): **273**
 - 🔄 More solutions will be added regularly.
 
