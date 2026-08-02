@@ -52,11 +52,7 @@ This repository contains my solutions to LeetCode problems using **Java**. The g
 ⭐ If you find this repository useful, consider giving it a star!
 
 ---
+## 🌐 Connect with Me
 
-## Coding Platform 
-Leetcode Profile : https://leetcode.com/u/kgshinde/
-
----
-
-## Professional Platform
-LinkedIn Profile : https://www.linkedin.com/in/kshitij-shinde-918881322/
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kgshinde/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitij-shinde-918881322/)
