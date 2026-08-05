@@ -25,6 +25,9 @@ This repository contains my solutions to LeetCode problems using **Java**. The g
 | 17 | Reverse String | `Reverse String.txt` |
 | 18 | Roman to Integer | `Roman to Integer.txt` |
 | 19 | Valid Parentheses | `Valid Parentheses.txt` |
+| 20 | Fibonacci Number | `Fibonacci Number.txt` |
+| 21 | Frequency of the Most Frequent Element | `Frequency of the Most Frequent Element.txt` |
+| 22 | Remove Element | `Remove Element.txt` |
 
 ## 🎯 Goals
 
@@ -43,8 +46,8 @@ This repository contains my solutions to LeetCode problems using **Java**. The g
 
 ## 📈 Progress
 
-- ✅ Problems Solved (Uploaded in Repo): **19**
-- ✅ Problems Solved (Actually Solved in Leetcode): **273**
+- ✅ Problems Solved (Uploaded in Repo): **22**
+- ✅ Problems Solved (Actually Solved in Leetcode): **281**
 - 🔄 More solutions will be added regularly.
 
 ---
