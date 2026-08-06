@@ -28,6 +28,9 @@ This repository contains my solutions to LeetCode problems using **Java**. The g
 | 20 | Fibonacci Number | `Fibonacci Number.txt` |
 | 21 | Frequency of the Most Frequent Element | `Frequency of the Most Frequent Element.txt` |
 | 22 | Remove Element | `Remove Element.txt` |
+| 23 | Find the Index of the First Occurrence in a String | `First Occurrence in string.txt` |
+| 24 | Merge Two Sorted Lists | `Merge Two Sorted Lists.txt` |
+| 25 | Remove Duplicates from Sorted Array | `Remove Duplicates from Sorted Array.txt` |
 
 ## 🎯 Goals
 
@@ -46,8 +49,8 @@ This repository contains my solutions to LeetCode problems using **Java**. The g
 
 ## 📈 Progress
 
-- ✅ Problems Solved (Uploaded in Repo): **22**
-- ✅ Problems Solved (Actually Solved in Leetcode): **281**
+- ✅ Problems Solved (Uploaded in Repo): **25**
+- ✅ Problems Solved (Actually Solved in Leetcode): **283**
 - 🔄 More solutions will be added regularly.
 
 ---
