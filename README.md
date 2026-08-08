@@ -31,6 +31,9 @@ This repository contains my solutions to LeetCode problems using **Java**. The g
 | 23 | Find the Index of the First Occurrence in a String | `First Occurrence in string.txt` |
 | 24 | Merge Two Sorted Lists | `Merge Two Sorted Lists.txt` |
 | 25 | Remove Duplicates from Sorted Array | `Remove Duplicates from Sorted Array.txt` |
+| 26 | Fizz Buzz | `Fizz Buzz.txt` |
+| 27 | Length of Last Word | `Length of Last Word.txt` |
+| 28 | Plus One | `Plus One.txt` |
 
 ## 🎯 Goals
 
@@ -49,8 +52,8 @@ This repository contains my solutions to LeetCode problems using **Java**. The g
 
 ## 📈 Progress
 
-- ✅ Problems Solved (Uploaded in Repo): **25**
-- ✅ Problems Solved (Actually Solved in Leetcode): **283**
+- ✅ Problems Solved (Uploaded in Repo): **28**
+- ✅ Problems Solved (Actually Solved in Leetcode): **286**
 - 🔄 More solutions will be added regularly.
 
 ---
