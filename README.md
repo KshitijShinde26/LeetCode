@@ -34,6 +34,8 @@ This repository contains my solutions to LeetCode problems using **Java**. The g
 | 26 | Fizz Buzz | `Fizz Buzz.txt` |
 | 27 | Length of Last Word | `Length of Last Word.txt` |
 | 28 | Plus One | `Plus One.txt` |
+| 29 | Single Number | `Single Number.txt` |
+| 30 | Happy Number | `Happy Number.txt` |
 
 ## 🎯 Goals
 
@@ -52,8 +54,8 @@ This repository contains my solutions to LeetCode problems using **Java**. The g
 
 ## 📈 Progress
 
-- ✅ Problems Solved (Uploaded in Repo): **28**
-- ✅ Problems Solved (Actually Solved in Leetcode): **286**
+- ✅ Problems Solved (Uploaded in Repo): **30**
+- ✅ Problems Solved (Actually Solved in Leetcode): **290**
 - 🔄 More solutions will be added regularly.
 
 ---
