@@ -43,7 +43,7 @@ I regularly practice LeetCode and upload selected solutions to this repository t
 The repository contains solutions to problems covering different areas of Data Structures & Algorithms.
 
 <details>
-<summary><strong>View All 33 Solutions</strong></summary>
+<summary><strong>View All 36 Solutions</strong></summary>
 
 <br>
 
@@ -82,6 +82,9 @@ The repository contains solutions to problems covering different areas of Data S
 | 31 | Add Binary | `Add Binary.txt` |
 | 32 | Check if Array Is Sorted and Rotated | `Check if Array Is Sorted and Rotated.txt` |
 | 33 | Missing Number | `Missing Number.txt` |
+| 34 | Binary Tree Preorder Traversal | 'Binary Tree Preorder Traversal.txt' |
+| 35 | Binary Tree Postorder Traversal | 'Binary Tree Postorder Traversal.txt' |
+| 36 | Maximum Depth of Binary Tree | 'Maximum Depth of Binary Tree.txt'
 
 </details>
 
@@ -136,8 +139,8 @@ I am continuously expanding this repository as I solve more problems on LeetCode
 
 ### Current Progress
 
-**LeetCode:** 292 Problems Solved  
-**GitHub Repository:** 33 Solutions Uploaded
+**LeetCode:** 295 Problems Solved  
+**GitHub Repository:** 36 Solutions Uploaded
 
 > The number of solutions in this repository is intentionally smaller than my total LeetCode count because I am gradually organizing and uploading selected solutions here.
 
