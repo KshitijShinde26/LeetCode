@@ -12,7 +12,7 @@ I regularly practice LeetCode and upload selected solutions to this repository t
 <tr>
 <td align="center" width="33%">
 
-<h2>🧩 33</h2>
+<h2>🧩 40</h2>
 
 <strong>Solutions Uploaded</strong>
 
@@ -20,7 +20,7 @@ I regularly practice LeetCode and upload selected solutions to this repository t
 
 <td align="center" width="33%">
 
-<h2>🏆 292</h2>
+<h2>🏆 300</h2>
 
 <strong>LeetCode Problems Solved</strong>
 
@@ -43,7 +43,7 @@ I regularly practice LeetCode and upload selected solutions to this repository t
 The repository contains solutions to problems covering different areas of Data Structures & Algorithms.
 
 <details>
-<summary><strong>View All 36 Solutions</strong></summary>
+<summary><strong>View All 40 Solutions</strong></summary>
 
 <br>
 
@@ -84,7 +84,11 @@ The repository contains solutions to problems covering different areas of Data S
 | 33 | Missing Number | `Missing Number.txt` |
 | 34 | Binary Tree Preorder Traversal | 'Binary Tree Preorder Traversal.txt' |
 | 35 | Binary Tree Postorder Traversal | 'Binary Tree Postorder Traversal.txt' |
-| 36 | Maximum Depth of Binary Tree | 'Maximum Depth of Binary Tree.txt'
+| 36 | Maximum Depth of Binary Tree | 'Maximum Depth of Binary Tree.txt' |
+| 37 | Number of 1 Bits | 'Number of 1 Bits.txt' |
+| 38 | Count Complete Tree Nodes | 'Count Complete Tree Nodes.txt' |
+| 39 | Implement Stack using Queues | 'Implement Stack using Queues.txt' |
+| 40 | Hamming Distance | 'Hamming Distance.txt' |
 
 </details>
 
@@ -139,8 +143,8 @@ I am continuously expanding this repository as I solve more problems on LeetCode
 
 ### Current Progress
 
-**LeetCode:** 295 Problems Solved  
-**GitHub Repository:** 36 Solutions Uploaded
+**LeetCode:** 300 Problems Solved  
+**GitHub Repository:** 40 Solutions Uploaded
 
 > The number of solutions in this repository is intentionally smaller than my total LeetCode count because I am gradually organizing and uploading selected solutions here.
 
@@ -159,7 +163,7 @@ I am continuously expanding this repository as I solve more problems on LeetCode
 
 <p><strong>Data Structures & Problem Solving</strong></p>
 
-<p>292 Problems Solved</p>
+<p>300 Problems Solved</p>
 
 <p>
 <a href="https://leetcode.com/u/kgshinde/">View LeetCode Profile →</a>
